@@ -1,0 +1,107 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #4EB883;
+}
+
+.badge-success {
+    background-color: #4EB883;
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+.card-slider {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: teal;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 200px;
+    margin-bottom: 0px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+
+.img-fluid {
+    border-radius: 15px;
+}
+
+
+.slidercard {
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+  .thumbcard {
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .media-pel {
+   
+    border-radius: 10px;
+
+  }
+  .media-pel:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.021), 0 6px 20px 0 rgba(0, 0, 0, 0.089);
+    border-radius: 10px;
+
+  }
+  
+  
+  .myBox {
+    margin-bottom: 2px;
+    overflow: scroll;
+  }
+  .myBox:hover {
+    margin-bottom: 2px;
+    overflow: scroll;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 4px;
+    margin-bottom: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgba(59, 59, 59, 0.192);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: grey;
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-corner {
+    background: gold;
+  }
+
+  
